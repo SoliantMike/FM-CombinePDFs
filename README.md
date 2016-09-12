@@ -19,3 +19,4 @@ user: Admin
 pass: admin
 
 
+Blog post with more detailed explanation and instructions to follow soon.
