@@ -19,4 +19,5 @@ user: Admin
 pass: admin
 
 
-Blog post with more detailed explanation and instructions to follow soon.
+Blog post with more detailed explanation and instructions here:
+https://www.soliantconsulting.com/blog/combine-pdfs-filemaker-fast-free
