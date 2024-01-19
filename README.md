@@ -18,6 +18,7 @@ user: Admin
 
 pass: admin
 
+NOTE: with newer version of Windows no longer needs to specify “cmd.exe /c ” at the beginning of a system command, so you can remove that in the script. Check in the script “server cat” on around line 125 when setting the variable “$cmd” and also line 156 setting the same variable to do the cleanup.
 
 Blog post with more detailed explanation and instructions here:
 https://www.soliantconsulting.com/blog/combine-pdfs-filemaker-fast-free
